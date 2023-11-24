@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_seo_seos",
+  "info": {
+    "displayName": "seo",
+    "icon": "bold",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "schema": {
+      "type": "json"
+    }
+  }
+}
